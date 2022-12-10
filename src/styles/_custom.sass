@@ -1,19 +1,161 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 62%
+    left: 6%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 25%
+    left: -3%
+  &-3
+    animation: float3 6s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 8%
+  &-4
+    animation: float1 7.5s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 33%
 
 @keyframes float1
-  0%
-    transform: translateY(20px)
+	0% 
+		transform: rotate(0deg) translateX(10px) rotate(-20deg)
+	100% 
+		transform: rotate(180deg) translateX(10px) rotate(-180deg)  
 
+@keyframes float2
+  0%
+    transform: translatex(10px)
+  50%
+    transform: translatex(0px)
   100%
-    transform: translateY(0px)
+    transform: rotate(-10deg)
+
+@keyframes float3
+	0% 
+		transform: rotate(0deg) translateX(10px) rotate(-20deg)
+	100% 
+		transform: rotate(-180deg) translateX(10px) rotate(180deg)
+  
+.banner-principal__row .banner-principal__img
+  width: 32%
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG01, .BGIMG02, .BGIMG03
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center
+  @media (max-width: $bp-max-sm)
+    background-size: cover
+
+.BGIMG01, .BGIMG02
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+  
+.BG01, .BGR01, .BGR01A, .BGR01B, .BGR01C, .tarjeta--boton.color-primario
+  background-color:#FEF2E4
+  
+.BGR02A
+  background-color: $color-acento-botones
+
+.BGR01C.acordion__activo
+  background-color: #E3F5F7
+  border: 3px solid #206897
+
+.BGR01, .BGR01C
+  border-radius: 12px
+
+.BGR01A
+  border-left: 10px solid #F9860B
+  border-radius: 0 0 25px 0
+
+.BGR01B
+  border: 3px solid #F9860B
+  border-radius: 0 0 12px 12px
+
+.hg01
+  height: 302px
+  @media (max-width: $bp-max-xl)
+    height: 374px
+  @media (max-width: $bp-max-lg)
+    height: 230px
+  @media (max-width: $bp-max-md)
+    height: 302px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  
+.hg02
+  height: 316px
+  @media (max-width: $bp-max-xl)
+    height: 314px
+  @media (max-width: $bp-max-lg)
+    height: initial
+
+.BGR02A
+  border-radius: 25px
+  border: 5px solid #F87DAB
+
+.modal-a__content
+  border-left: 25px solid #F40B74
+
+.tarjetas-up
+  overflow: hidden
+  border-radius: 5px
+  position: relative
+  &_card
+    transition: bottom .3s ease-in-out
+    position: absolute
+    border-radius: 5px
+    width: 100%
+    height: 100%
+    left: 0
+    bottom: -76%
+    @media (max-width: $bp-max-lg)
+      bottom: -82%
+    i:last-child
+      display: none
+  &:hover
+    .tarjetas-up_card
+      bottom: -20%
+      @media (max-width: $bp-max-xl)
+        bottom: 0
+      @media (max-width: $bp-max-lg)
+        bottom: -20%
+    i:first-child
+      display: none
+    i:last-child
+      display: block
+    
+.linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #F977B2
+  color: $black
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #FEEBF4
+
+.linea-tiempo-d__item__content__title
+  background-color: #FEF2E4
+
+.linea-tiempo-d .tarjeta
+  background-color: #F9860B
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 5px 5px 0 0
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 5px 5px

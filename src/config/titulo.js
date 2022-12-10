@@ -1,1 +1,1 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports = 'Social media e inteligencia empresarial'
