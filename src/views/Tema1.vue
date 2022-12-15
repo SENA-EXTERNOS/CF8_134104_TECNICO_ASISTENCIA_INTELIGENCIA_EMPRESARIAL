@@ -10,7 +10,7 @@
       
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
-          p.mb-0 Toda persona, empresa y, en general toda organización, está continuamente captando una serie de datos, gran parte de los cuales no tienen significado alguno, pero en cambio, existen otros datos que sirven para comprender mejor el entorno que le rodea y aportan para conocerse mejor. Estos datos que constituyen la llamada información, es considerada, con este nombre, debido a que ha sido clasificada, analizada, interpretada, almacenada y procesada, permitiendo tomar decisiones más acertadas. Por esto, la información a tiempo y en la cantidad precisa, es un factor clave para toda organización, porque a partir de la web 2.0 las organizaciones han disminuido la brecha entre cliente y empresa, generando un vínculo más estrecho y original.
+          p.mb-0 Toda persona, empresa y, en general toda organización, está continuamente captando una serie de datos, gran parte de los cuales no tienen significado alguno, pero en cambio, existen otros datos que sirven para comprender mejor el entorno que le rodea y aportan para conocerse mejor. Estos datos que constituyen la llamada información, es considerada, con este nombre, debido a que ha sido clasificada, analizada, interpretada, almacenada y procesada, permitiendo tomar decisiones más acertadas. Por esto, la #[b información] a tiempo y en la cantidad precisa, es un factor clave para toda organización, porque a partir de la #[b #[em web] 2.0] las organizaciones han disminuido la brecha entre cliente y empresa, generando un vínculo más estrecho y original.
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           img(src="@/assets/curso/tema1/img01.png")
       
@@ -66,13 +66,13 @@
         img(src='@/assets/curso/temas/img01.svg' style="max-width: 32px;" data-aos="fade-right")
         h4.col.mb-0(style="margin-left: -16px" data-aos="fade-left") Fundamentos para implementar social media
     
-    p La web social implica un medio de comunicación que rompe esquemas, dando origen a un relacionamiento social mucho más cercano a través de este medio, la conversación, publicaciones que generan interés, una interacción con los clientes potenciales y reales, estrechando el vínculo con ellos.
+    p La #[em web] social implica un medio de comunicación que rompe esquemas, dando origen a un relacionamiento social mucho más cercano a través de este medio, la conversación, publicaciones que generan interés, una interacción con los clientes potenciales y reales, estrechando el vínculo con ellos.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.BGR01A.p-4.mb-4(data-aos="fade-right")
-        p.mb-0 En 1990, el Internet no funcionaba como lo se conoce ahora; en su inicio, la red cumplía la función de sustituto comunicativo de los canales de la época, como periódico, radio, televisión, debido a que se accedía a una página web (website) y se observaba lo que publicaba, pero no se podía interactuar ni opinar. Para producir contenido en la red, se requería personal capacitado que dominara la programación, pero con la llegada del año 2000, la red vive una serie de transformaciones que aportan interactividad, dinamismo, participación y coloca en el centro, al cliente o usuario.
+        p.mb-0 En 1990, el Internet no funcionaba como lo se conoce ahora; en su inicio, la red cumplía la función de sustituto comunicativo de los canales de la época, como periódico, radio, televisión, debido a que se accedía a una página #[em web] (#[em website]) y se observaba lo que publicaba, pero no se podía interactuar ni opinar. Para producir contenido en la red, se requería personal capacitado que dominara la programación, pero con la llegada del año 2000, la red vive una serie de transformaciones que aportan interactividad, dinamismo, participación y coloca en el centro, al cliente o usuario.
 
-    p A continuación, se presenta el desarrollo tecnológico de la web, con el fin de conocer su origen, la ampliación de los servicios ofertados y sus características de operatividad.
+    p A continuación, se presenta el desarrollo tecnológico de la #[em web], con el fin de conocer su origen, la ampliación de los servicios ofertados y sus características de operatividad.
 
     .row.justify-content-center.mb-5
       .col-xl-3.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-right")
@@ -80,17 +80,17 @@
         .BGR01B.hg01.p-4
           .mb-4.d-flex
             .d-flex.flex-wrap.align-items-center.pe-4
-              h4.col.ms-5.mb-0 WEB 1.0
+              h4.col.ms-5.mb-0 #[em WEB] 1.0
               a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal1 = true")
                 span +
                 .indicador--click(v-if="mostrarIndicador")
-          p.mb-0 Corresponde al nacimiento de world wide web o www, nacida en 1990.
+          p.mb-0 Corresponde al nacimiento de #[em world wide web] o www, nacida en 1990.
       .col-xl-3.col-md-6.col-10.mb-xl-0.mb-4(data-aos="flip-up")
         img(src="@/assets/curso/tema1/img05.jpg")
         .BGR01B.hg01.p-4
           .mb-4.d-flex
             .d-flex.flex-wrap.align-items-center.pe-4
-              h4.col.ms-5.mb-0 WEB 2.0
+              h4.col.ms-5.mb-0 #[em WEB] 2.0
               a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal2 = true")
                 span +
                 .indicador--click(v-if="mostrarIndicador")
@@ -100,7 +100,7 @@
         .BGR01B.hg01.p-4
           .mb-4.d-flex
             .d-flex.flex-wrap.align-items-center.pe-4
-              h4.col.ms-5.mb-0 WEB 3.0
+              h4.col.ms-5.mb-0 #[em WEB] 3.0
               a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal3 = true")
                 span +
                 .indicador--click(v-if="mostrarIndicador")
@@ -110,7 +110,7 @@
         .BGR01B.hg01.p-4
           .mb-4.d-flex
             .d-flex.flex-wrap.align-items-center.pe-4
-              h4.col.ms-5.mb-0 WEB 4.0
+              h4.col.ms-5.mb-0 #[em WEB] 4.0
               a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal4 = true")
                 span +
                 .indicador--click(v-if="mostrarIndicador")
@@ -148,7 +148,7 @@
         ul.lista-ul--color
           li
             i.fab.fa-battle-net(style="color= #F40B74")
-            | Nacimiento de blogs, foros de discusión, salas de chat, correo electrónico, página web, blog y sitios de redes sociales.
+            p.mb-0 Nacimiento de blogs, foros de discusión, salas de chat, correo electrónico, página #[em web], blog y sitios de redes sociales.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
             | Permite compartir información.
@@ -177,10 +177,10 @@
         ul.lista-ul--color
           li
             i.fab.fa-battle-net(style="color= #F40B74")
-            | Aparición de la web semántica y relacionada a través de los datos.
+            p.mb-0 Aparición de la #[em web] semántica y relacionada a través de los datos.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
-            | Se crean sitios web más inteligentes, abiertos y conectados.
+            p.mb-0 Se crean sitios #[em web] más inteligentes, abiertos y conectados.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
             | Inteligencia artificial.
@@ -209,7 +209,7 @@
             | Conexión en tiempo real.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
-            | Sistema operativo web global.
+            p.mb-0 Sistema operativo #[em web] global.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
             | Aparición de grandes vehículos autónomos.
@@ -233,7 +233,7 @@
             div(titulo="Ejemplos de técnicas de análisis")
               p.mb-0 Otras técnicas de análisis de datos son R y Python, Microsoft Excel, Tableau, RapidMiner, KNIME, Power BI, Apache Spark, QlikView, Talend y Splunk.
             div(titulo="Criterios de identificación")
-              p.mb-0 Gracias al desarrollo tecnológico de la web, el flujo de información disponible es lo suficiente como para sentirse en un mar de información; por esta razón, es de vital importancia definir criterios específicos para captar la información que requiere la organización, y esto se logra a través de híbrido BI más #[em Big data]. El primero, orientado al acercamiento de las personas, y el segundo orientado al análisis de bases de datos.
+              p.mb-0 Gracias al desarrollo tecnológico de la #[em web], el flujo de información disponible es lo suficiente como para sentirse en un mar de información; por esta razón, es de vital importancia definir criterios específicos para captar la información que requiere la organización, y esto se logra a través de híbrido BI más #[em Big data]. El primero, orientado al acercamiento de las personas, y el segundo orientado al análisis de bases de datos.
 
 </template>
 

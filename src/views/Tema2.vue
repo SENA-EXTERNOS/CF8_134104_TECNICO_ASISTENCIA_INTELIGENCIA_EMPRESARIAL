@@ -192,7 +192,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8.BGR01A.p-4(data-aos="fade-right")
-        p.mb-0 En la era de la Web 2.0, el marketing también evolucionó cambiando el foco del producto al cliente, con el fin de llegar a su corazón y esencia, para crear un vínculo fuerte y conocerlo de primera mano, al punto de crear productos y servicios conforme a sus necesidades y expectativas; de esta manera, trabajan a la vez en la fidelización del cliente, gracias al análisis exhaustivo de las bases de datos que dinamizando la interacción total y bidireccional con el cliente, se unen a una combinación con los medios tradicionales e interactivos. 
+        p.mb-0 En la era de la #[em Web] 2.0, el marketing también evolucionó cambiando el foco del producto al cliente, con el fin de llegar a su corazón y esencia, para crear un vínculo fuerte y conocerlo de primera mano, al punto de crear productos y servicios conforme a sus necesidades y expectativas; de esta manera, trabajan a la vez en la fidelización del cliente, gracias al análisis exhaustivo de las bases de datos que dinamizando la interacción total y bidireccional con el cliente, se unen a una combinación con los medios tradicionales e interactivos. 
 
     p A continuación, se presenta la triangulación de medios en #[em marketing] digital, donde se muestra la combinación de medios tradicionales, medios interactivos definidos como medios pagados, ganados y propios y su aporte al #[em marketing] digital.       
 
@@ -202,7 +202,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-8.BGR01A.p-4(data-aos="fade-right")
-        p.mb-0 Resumiendo, la triangulación corresponde a la potencialización de la estrategia de marketing, basada en la interacción de los espacios propios como blog, sms, redes sociales, página web y otras aplicaciones; así como también los medios pagados, o donde sea necesario que la organización realice una inversión y los medios ganados, donde la empresa ha tenido la oportunidad de resaltar por la calidad de sus productos, por la excelencia de sus servicios, en fin, por ser una compañía confiable que supera las expectativas del cliente.
+        p.mb-0 Resumiendo, la triangulación corresponde a la potencialización de la estrategia de marketing, basada en la interacción de los espacios propios como blog, sms, redes sociales, página #[em web] y otras aplicaciones; así como también los medios pagados, o donde sea necesario que la organización realice una inversión y los medios ganados, donde la empresa ha tenido la oportunidad de resaltar por la calidad de sus productos, por la excelencia de sus servicios, en fin, por ser una compañía confiable que supera las expectativas del cliente.
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4
@@ -224,9 +224,9 @@
           div(titulo="Tema o contenidos")
             p.mb-0 Otro componente son los temas o contenidos a publicar, los cuales son transformados en tangibles, donde juega un papel estratégico el SEO o estrategia de posicionamiento, que mediante la definición de palabras, videos, imágenes claves, fijarán una excelente posición para ser ubicados con mayor agilidad, donde serán útiles las etiquetas o tags y los hashtags.
           div(titulo="Fuente u origen de la información")
-            p.mb-0 Además, debe contener fuente u origen de la información, descripción o detalle, formato, canal como blog, redes sociales, fecha de publicación, responsable, estadísticas acerca de ventas, oportunidades de negocio, ideas, tráfico web, alcance, entre otros.
+            p.mb-0 Además, debe contener fuente u origen de la información, descripción o detalle, formato, canal como blog, redes sociales, fecha de publicación, responsable, estadísticas acerca de ventas, oportunidades de negocio, ideas, tráfico #[em web], alcance, entre otros.
 
-    p En este punto, es importante señalar que el canal es el SEO, siendo necesario que el sitio web esté optimizado correctamente, con la finalidad que los motores de búsqueda como Google, ubiquen la información de la marca en los primeros lugares. A partir de una correcta optimización, los motores de búsqueda arrojan resultados orgánicos o que se encuentre un sitio, desempeñando de esta manera un papel crucial para comercializar, a través de diferentes canales, orientada a buscadores como estrategia SEM.
+    p En este punto, es importante señalar que el canal es el SEO, siendo necesario que el sitio #[em web] esté optimizado correctamente, con la finalidad que los motores de búsqueda como Google, ubiquen la información de la marca en los primeros lugares. A partir de una correcta optimización, los motores de búsqueda arrojan resultados orgánicos o que se encuentre un sitio, desempeñando de esta manera un papel crucial para comercializar, a través de diferentes canales, orientada a buscadores como estrategia SEM.
     p.mb-5 En la definición de la estrategia publicitaria, se identifican las 4 P, las cuales son:
 
     .row.justify-content-center.mb-5
@@ -259,7 +259,7 @@
           h4.text-center Persona a persona
           p.text-center Intercambio directo de información entre los clientes.
     
-    p.mb-5 De esta manera, los contenidos compartidos por medio de redes sociales, adquieren una relevancia crítica, distinguiendo en Internet dos niveles de comunicación: la de los medios de comunicación en la red y páginas web corporativas y de las redes de autocomunicación social y personal, generadas por los consumidores (Dotras, 2015a). En la Tabla 2, se evidencia la diferencia entre marketing tradicional y digital, donde cada área ha avanzado a un nivel de mayor agilidad para compartir información con mayor alcance, visibilidad, a menor costo, manteniendo un contacto directo y alta credibilidad (Mir, 2016).
+    p.mb-5 De esta manera, los contenidos compartidos por medio de redes sociales, adquieren una relevancia crítica, distinguiendo en Internet dos niveles de comunicación: la de los medios de comunicación en la red y páginas #[em web] corporativas y de las redes de autocomunicación social y personal, generadas por los consumidores (Dotras, 2015a). En la Tabla 2, se evidencia la diferencia entre marketing tradicional y digital, donde cada área ha avanzado a un nivel de mayor agilidad para compartir información con mayor alcance, visibilidad, a menor costo, manteniendo un contacto directo y alta credibilidad (Mir, 2016).
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -287,7 +287,7 @@
               tr
                 td(style="background-color: #FFF;").text-center Relaciones públicas.
                 td(style="background-color: #FFF;").text-center Notas de prensa.
-                td(style="background-color: #FFF;").text-center Notas en web corporativa.
+                td(style="background-color: #FFF;").text-center Notas en #[em web] corporativa.
               tr
                 td(style="background-color: #F6F6F6;").text-center Comunicación.
                 td(style="background-color: #F6F6F6;").text-center Correo postal.
@@ -351,9 +351,9 @@
       .col-lg-8.BGR01A.p-4(data-aos="fade-right")
         p.mb-0 Ahora bien, la gestión del contenido, implica definir un plan estratégico de social media que oriente la estrategia y defina los objetivos a alcanzar los cuales, al pasar el tiempo, podrán ser medibles a través de herramientas de analítica.
 
-    p Para la construcción de este plan estratégico, se deben tener en cuenta las siguientes recomendaciones:
+    p.mb-5 Para la construcción de este plan estratégico, se deben tener en cuenta las siguientes recomendaciones:
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema2/img21.svg")
       .col-lg-8(data-aos="fade-left")

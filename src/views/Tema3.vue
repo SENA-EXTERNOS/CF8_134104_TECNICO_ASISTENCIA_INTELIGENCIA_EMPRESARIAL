@@ -10,7 +10,7 @@
       
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-7.order-lg-1.order-2
-          p La analítica es el proceso de cierre periódico que se realiza en la estrategia de social media, relacionado con una marca. Esta actividad corresponde a la medición de resultados de la campaña de social media, función que debe ejecutar el community manager para conocer la efectividad de las estrategias, midiendo los resultados, lo que se denomina analítica web.
+          p La analítica es el proceso de cierre periódico que se realiza en la estrategia de social media, relacionado con una marca. Esta actividad corresponde a la medición de resultados de la campaña de social media, función que debe ejecutar el community manager para conocer la efectividad de las estrategias, midiendo los resultados, lo que se denomina analítica #[em web].
           .BGR01A.p-4(data-aos="fade-right")
             p.mb-0 Además, se debe llevar a cabo con las mejores herramientas que permitan analizar la dinámica de los usuarios y clientes, en los diferentes canales digitales aportará a un direccionamiento estratégico pertinente, de acuerdo con los objetivos propuestos y la dinámica del sector y así, poder obtener informes de social media que faciliten las evidencias, la efectividad de la gestión de social media y en especial, el cumplimiento de los objetivos. 
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
@@ -78,7 +78,7 @@
             img(src="@/assets/curso/tema3/img04.png")
         .row.justify-content-center.align-items-center
           .col-lg-7.order-lg-1.order-2
-            .h4 SEO o posicionamiento web
+            .h4 SEO o posicionamiento #[em web]
             p Realiza un esfuerzo de posicionamiento de la información de la marca en los buscadores más reconocidos y utilizados con el fin que el cliente encuentre, con facilidad, la oferta de productos y servicios. Se trata de tener visibilidad en internet; mediante el uso de técnicas de SEO aportan a estar mejor ubicados en la red e incrementa la visibilidad. 
             p Es importante anotar que SEO traduce optimización para motores de búsqueda de tal manera que se optimice el uso de motores de búsqueda de manera que la posición de la marca esté en los primeros lugares para ser ubicados con facilidad cuando el usuario realice una búsqueda determinada relacionada con la actividad, productos y servicios de la marca. Y se desarrolla mediante las siguientes estrategias:
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
@@ -117,7 +117,7 @@
                 th(style="background-color: #ACE1E7;" colspan="3").text-center Las metas del social media marketing
               tr
                 th(style="background-color: #FFF;").text-center Aprovechar nuevas posibilidades de desarrollo de negocio
-                th(style="background-color: #FFF;").text-center Incrementar el tráfico web y las conversiones
+                th(style="background-color: #FFF;").text-center Incrementar el tráfico #[em web] y las conversiones
                 th(style="background-color: #FFF;").text-center Aumentar la presencia online
             tbody
               tr
@@ -191,7 +191,7 @@
         img(src='@/assets/curso/temas/img01.svg' style="max-width: 32px;" data-aos="fade-right")
         h4.col.mb-0(style="margin-left: -16px" data-aos="fade-left") Consolidación de informe de social media e inteligencia empresarial
     
-    p En la consolidación de información, se evalúan las acciones realizadas en el sitio web y en redes sociales, como resultados de los reportes de la métrica, analítica y aplicación de herramientas de monitorización, resultados que deben ser analizados detalladamente y, al ser comparados con resultados obtenidos con antelación, y obtener nuevas conclusiones de la dinámica y tendencias de las campañas realizadas por la marca.
+    p En la consolidación de información, se evalúan las acciones realizadas en el sitio #[em web] y en redes sociales, como resultados de los reportes de la métrica, analítica y aplicación de herramientas de monitorización, resultados que deben ser analizados detalladamente y, al ser comparados con resultados obtenidos con antelación, y obtener nuevas conclusiones de la dinámica y tendencias de las campañas realizadas por la marca.
     p A continuación, se presenta la generación de un informe de social media.
 
     .row.justify-content-center
@@ -236,7 +236,7 @@
             p.text-small(numero="2" titulo="Generalidades de minería de datos") Se encarga de extraer información de redes sociales, de acuerdo con las campañas que realiza la marca correspondiente a datos sociales, lo que requiere recopilar, procesar y analizar datos obtenidos de plataformas de redes sociales como Facebook, Instagram, Twitter, TikTok, LinkedIn, YouTube, entre otras, para identificar patrones y tendencias preponderantes, como datos demográficos: edad, sexo, nivel de escolaridad, ocupación, ubicación geográfica, también intereses particulares tomados de los clic al consultar una página o al dar clic en “me gusta” en una publicación en especial, lo que permite generar conclusiones y proporcionar nuevos insights. 
             p.text-small(numero="3" titulo="Hallazgos") Los hallazgos en social media están orientados al cumplimiento o mejoramiento de la estrategia implementada, relacionados con los objetivos S.M.A.R.T. planteados en el plan de marketing y de contenidos, así como de la estabilidad de la estrategia planeada y ejecutada mediante campañas en diferentes canales, pero al final todos los hallazgos solo arrojan resultados que obligan a la marca a corregir errores o la mejora continua.
             p.text-small(numero="4" titulo="Interpretación y recomendaciones del análisis de indicadores") La interpretación y recomendación del análisis de indicadores, puede ser tan original como subjetiva, porque los resultados arrojados de la analítica son diferentes para cada marca, porque, aunque existen negocios similares las visiones de sus dirigentes y la proyección comercial que se desea tener no será exactamente la misma. De esta manera, aunque se participe en un mismo canal con productos y servicios iguales, la estrategia implementada siempre será diferente, esta dará cuenta de la proyección de la marca y las necesidades que tiene la organización.
-            p.text-small(numero="5" titulo="Seguridad de la información") El avance tecnológico nos ha traído grandes ventajas y facilidades para la vida diaria, pero el estar conectados a red mundial se está expuesto a ser vulnerables por diferentes riesgos que se pueden sufrir si no se cuenta con la suficiente información o se cae en campañas prometedoras de premios o regalos, aparentemente fáciles de ganar. <br><br>Algunos riesgos en redes sociales son virus, phishing y robo de información, los cuales se pueden prevenir si se toman precauciones en cuanto a visitar sitios web que tengan un dominio real, a acceder a información acerca de promociones, ofertas de dinero fácil, donde se solicita información personal, entre otros.
+            p.text-small(numero="5" titulo="Seguridad de la información") El avance tecnológico nos ha traído grandes ventajas y facilidades para la vida diaria, pero el estar conectados a red mundial se está expuesto a ser vulnerables por diferentes riesgos que se pueden sufrir si no se cuenta con la suficiente información o se cae en campañas prometedoras de premios o regalos, aparentemente fáciles de ganar. <br><br>Algunos riesgos en redes sociales son virus, phishing y robo de información, los cuales se pueden prevenir si se toman precauciones en cuanto a visitar sitios #[em web] que tengan un dominio real, a acceder a información acerca de promociones, ofertas de dinero fácil, donde se solicita información personal, entre otros.
             p.text-small(numero="6" titulo="Propiedad intelectual") Las redes sociales o social media marketing, son una estrategia de comunicación en las organizaciones, basada en difundir contenidos en sus redes sociales, donde muestran la imagen, valores y contribuyen a la construcción de su marca.<br><br>Aunque parece un espacio de comunicación libre, es necesario tener en cuenta que existe la ley de protección intelectual donde se debe tener en cuenta que, siempre hay que contar con autorización del propietario de la creación, para hacer uso de contenido que no nos pertenece; es necesario revisar el aviso legal y, por último, la producción propia estará sometida a las mismas condiciones.
 
       .row.justify-content-center.align-items-center.mb-5
