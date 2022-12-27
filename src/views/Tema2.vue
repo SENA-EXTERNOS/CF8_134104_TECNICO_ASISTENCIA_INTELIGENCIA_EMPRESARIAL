@@ -10,9 +10,9 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-7.order-lg-1.order-2
-          p El comercio electrónico y el marketing digital, difieren en que el marketing digital genera una plataforma que define el público objetivo, el posicionamiento de marca, fidelización de clientes, entre otros, mientras el e-commerce es la versión digital de un negocio, haciendo posible la operatividad de manera digital, lo que permite mayor control y cobertura, entre otros.
+          p El comercio electrónico y el #[em marketing] digital, difieren en que el #[em marketing] digital genera una plataforma que define el público objetivo, el posicionamiento de marca, fidelización de clientes, entre otros, mientras el #[em e-commerce] es la versión digital de un negocio, haciendo posible la operatividad de manera digital, lo que permite mayor control y cobertura, entre otros.
           .BGR01A.p-4(data-aos="fade-right")
-            p.mb-0 Este híbrido se lleva a cabo con el apoyo de un Social Commerce Manager quien se encarga de gestionar el canal de venta social de la marca y ser estratégico en la combinación de branding y ventas.
+            p.mb-0 Este híbrido se lleva a cabo con el apoyo de un #[em Social Commerce Manager] quien se encarga de gestionar el canal de venta social de la marca y ser estratégico en la combinación de #[em branding] y ventas.
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           img(src="@/assets/curso/tema2/img01.png")
 
@@ -23,16 +23,16 @@
       
       p.mb-5 El comercio electrónico es toda actividad en la que las empresas y consumidores interactúan, hacen negocios entre sí, o con las administraciones, por medios electrónicos. Este ha superado los canales tradicionales de distribución, ofreciendo una amplia información acerca de productos y servicios, y sus precios y a favor de la empresa se ha dado una reducción de costos y a la agilidad con que se realizan operaciones al interior de la empresa y, a su vez, transacciones comerciales. A continuación, lo invitamos a ver el siguiente video, donde conocerá acerca del alcance del #[em e-commerce].
     
-    .h4 El alcance de e-commerce
+    .h4 El alcance de #[em e-commerce]
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.BGR01A.p-4.mb-4(data-aos="fade-right")
-        p.mb-0 Ya conociendo el alcance que tiene el e-commerce en una organización, es importante conocer las diferentes categorías en que este se divide, teniendo en cuenta el comercio entre empresas y consumidores.
+        p.mb-0 Ya conociendo el alcance que tiene el #[em e-commerce] en una organización, es importante conocer las diferentes categorías en que este se divide, teniendo en cuenta el comercio entre empresas y consumidores.
 
-    p A continuación, se presentan tres categorías del e-commerce.
+    p A continuación, se presentan tres categorías del #[em e-commerce].
 
     .row.justify-content-center.mb-5
       .col-xl-4.col-md-8.col-10.mb-xl-0.mb-4(data-aos="fade-right")
@@ -89,7 +89,7 @@
           figcaption(style= "background-color: #FEF2E4") Nota. Devece et al., 2016. Recuperado de <a href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/51689?page=4" target="_blank" style="color: #206897">elibro-net.bdigital.sena.edu.co</a>
 
     p Esa interacción presentada en la Figura 2, además, no solo ocurre entre las empresas, sino que también tiene lugar entre los propios consumidores, dando lugar al comúnmente conocido como #[b eWOM], que tiene características particulares donde las personas comparten espacio y tiempo para realizarlo y que es de fácil acceso a las personas, durante un tiempo indefinido, donde se trata acerca de la reputación de las empresas y los productos.    
-    p Este #[b eWOM] se encuentra desarrollado, teniendo en cuenta ocho pilares.
+    p Este #[b eWOM] se encuentra desarrollado, teniendo en cuenta ocho pilares:
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -187,12 +187,12 @@
                 td(style="background-color: #F6F6F6;").text-center Alta
                 td(style="background-color: #F6F6F6;").text-center Baja
     
-    p El #[b marketing], tradicionalmente conocido, es utilizado por muchas empresas y se centra en promocionar su producto; su estrategia es la mercadotecnia o #[em marketing mix] y se implementa a través de medios tradicionales como la televisión, la radio, las vallas publicitarias, revistas, entre otros y es conocido como #[em Marketing] 1.0.
+    p El #[b #[em marketing]], tradicionalmente conocido, es utilizado por muchas empresas y se centra en promocionar su producto; su estrategia es la mercadotecnia o #[em marketing mix] y se implementa a través de medios tradicionales como la televisión, la radio, las vallas publicitarias, revistas, entre otros y es conocido como #[em Marketing] 1.0.
 
 
     .row.justify-content-center.mb-5
       .col-lg-8.BGR01A.p-4(data-aos="fade-right")
-        p.mb-0 En la era de la #[em Web] 2.0, el marketing también evolucionó cambiando el foco del producto al cliente, con el fin de llegar a su corazón y esencia, para crear un vínculo fuerte y conocerlo de primera mano, al punto de crear productos y servicios conforme a sus necesidades y expectativas; de esta manera, trabajan a la vez en la fidelización del cliente, gracias al análisis exhaustivo de las bases de datos que dinamizando la interacción total y bidireccional con el cliente, se unen a una combinación con los medios tradicionales e interactivos. 
+        p.mb-0 En la era de la #[em Web] 2.0, el #[em marketing] también evolucionó cambiando el foco del producto al cliente, con el fin de llegar a su corazón y esencia, para crear un vínculo fuerte y conocerlo de primera mano, al punto de crear productos y servicios conforme a sus necesidades y expectativas; de esta manera, trabajan a la vez en la fidelización del cliente, gracias al análisis exhaustivo de las bases de datos que dinamizando la interacción total y bidireccional con el cliente, se unen a una combinación con los medios tradicionales e interactivos. 
 
     p A continuación, se presenta la triangulación de medios en #[em marketing] digital, donde se muestra la combinación de medios tradicionales, medios interactivos definidos como medios pagados, ganados y propios y su aporte al #[em marketing] digital.       
 
@@ -202,7 +202,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-8.BGR01A.p-4(data-aos="fade-right")
-        p.mb-0 Resumiendo, la triangulación corresponde a la potencialización de la estrategia de marketing, basada en la interacción de los espacios propios como blog, sms, redes sociales, página #[em web] y otras aplicaciones; así como también los medios pagados, o donde sea necesario que la organización realice una inversión y los medios ganados, donde la empresa ha tenido la oportunidad de resaltar por la calidad de sus productos, por la excelencia de sus servicios, en fin, por ser una compañía confiable que supera las expectativas del cliente.
+        p.mb-0 Resumiendo, la triangulación corresponde a la potencialización de la estrategia de #[em marketing], basada en la interacción de los espacios propios como #[em blog], sms, redes sociales, página #[em web] y otras aplicaciones; así como también los medios pagados, o donde sea necesario que la organización realice una inversión y los medios ganados, donde la empresa ha tenido la oportunidad de resaltar por la calidad de sus productos, por la excelencia de sus servicios, en fin, por ser una compañía confiable que supera las expectativas del cliente.
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4
@@ -222,9 +222,9 @@
           div(titulo="Público objetivo o audiencia")
             p.mb-0 El público objetivo o audiencia es para quien se implementará el plan.
           div(titulo="Tema o contenidos")
-            p.mb-0 Otro componente son los temas o contenidos a publicar, los cuales son transformados en tangibles, donde juega un papel estratégico el SEO o estrategia de posicionamiento, que mediante la definición de palabras, videos, imágenes claves, fijarán una excelente posición para ser ubicados con mayor agilidad, donde serán útiles las etiquetas o tags y los hashtags.
+            p.mb-0 Otro componente son los temas o contenidos a publicar, los cuales son transformados en tangibles, donde juega un papel estratégico el SEO o estrategia de posicionamiento, que mediante la definición de palabras, videos, imágenes claves, fijarán una excelente posición para ser ubicados con mayor agilidad, donde serán útiles las etiquetas o #[em tags] y los #[em hashtags].
           div(titulo="Fuente u origen de la información")
-            p.mb-0 Además, debe contener fuente u origen de la información, descripción o detalle, formato, canal como blog, redes sociales, fecha de publicación, responsable, estadísticas acerca de ventas, oportunidades de negocio, ideas, tráfico #[em web], alcance, entre otros.
+            p.mb-0 Además, debe contener fuente u origen de la información, descripción o detalle, formato, canal como #[em blog], redes sociales, fecha de publicación, responsable, estadísticas acerca de ventas, oportunidades de negocio, ideas, tráfico #[em web], alcance, entre otros.
 
     p En este punto, es importante señalar que el canal es el SEO, siendo necesario que el sitio #[em web] esté optimizado correctamente, con la finalidad que los motores de búsqueda como Google, ubiquen la información de la marca en los primeros lugares. A partir de una correcta optimización, los motores de búsqueda arrojan resultados orgánicos o que se encuentre un sitio, desempeñando de esta manera un papel crucial para comercializar, a través de diferentes canales, orientada a buscadores como estrategia SEM.
     p.mb-5 En la definición de la estrategia publicitaria, se identifican las 4 P, las cuales son:
@@ -259,13 +259,13 @@
           h4.text-center Persona a persona
           p.text-center Intercambio directo de información entre los clientes.
     
-    p.mb-5 De esta manera, los contenidos compartidos por medio de redes sociales, adquieren una relevancia crítica, distinguiendo en Internet dos niveles de comunicación: la de los medios de comunicación en la red y páginas #[em web] corporativas y de las redes de autocomunicación social y personal, generadas por los consumidores (Dotras, 2015a). En la Tabla 2, se evidencia la diferencia entre marketing tradicional y digital, donde cada área ha avanzado a un nivel de mayor agilidad para compartir información con mayor alcance, visibilidad, a menor costo, manteniendo un contacto directo y alta credibilidad (Mir, 2016).
+    p.mb-5 De esta manera, los contenidos compartidos por medio de redes sociales, adquieren una relevancia crítica, distinguiendo en Internet dos niveles de comunicación: la de los medios de comunicación en la red y páginas #[em web] corporativas y de las redes de autocomunicación social y personal, generadas por los consumidores (Dotras, 2015a). En la Tabla 2, se evidencia la diferencia entre #[em marketing] tradicional y digital, donde cada área ha avanzado a un nivel de mayor agilidad para compartir información con mayor alcance, visibilidad, a menor costo, manteniendo un contacto directo y alta credibilidad (Mir, 2016).
 
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Tabla 2
-          span Marketing tradicional vs marketing en la red
+          span #[em Marketing] tradicional vs #[em marketing] en la red
 
         .tabla-a.color-secundario(data-aos="zoom-in")
           table
@@ -279,7 +279,7 @@
               tr
                 td(style="background-color: #FFF;").text-center Método promocional.
                 td(style="background-color: #FFF;").text-center Boca a boca (#[b WOM]).
-                td(style="background-color: #FFF;").text-center Marketing viral, #[b eWOM].
+                td(style="background-color: #FFF;").text-center #[em Marketing] viral, #[b eWOM].
               tr
                 td(style="background-color: #F6F6F6;").text-center Presentación de producto.
                 td(style="background-color: #F6F6F6;").text-center Anuncios en medios de comunicación.
@@ -298,7 +298,7 @@
         img(src='@/assets/curso/temas/img01.svg' style="max-width: 32px;" data-aos="fade-right")
         h4.col.mb-0(style="margin-left: -16px" data-aos="fade-left") Herramientas informáticas para la gestión #[em social media]
     
-    p.mb-5 La gestión social media, consiste en realizar seguimientos o vigilancias, a la dinámica de las redes sociales en cuanto a la marca o a la empresa, con el fin de determinar los resultados obtenidos como menciones de marca, menciones de productos, menciones de la empresa, opiniones de usuario y consumidores, monitorear la presencia en medios sociales, entre otros. Las siguientes son algunas de las herramientas utilizadas en social media:
+    p.mb-5 La gestión #[em social media], consiste en realizar seguimientos o vigilancias, a la dinámica de las redes sociales en cuanto a la marca o a la empresa, con el fin de determinar los resultados obtenidos como menciones de marca, menciones de productos, menciones de la empresa, opiniones de usuario y consumidores, monitorear la presencia en medios sociales, entre otros. Las siguientes son algunas de las herramientas utilizadas en #[em social media]:
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -345,11 +345,11 @@
                 i.fab.fa-battle-net(style="color= #F40B74")
                 | Addictomatic (gratuita).
     
-    p Como se puede observar, hay diversidad de herramientas dispuestas para la gestión de social media, de acuerdo con las necesidades de las organizaciones.
+    p Como se puede observar, hay diversidad de herramientas dispuestas para la gestión de #[em social media], de acuerdo con las necesidades de las organizaciones.
 
     .row.justify-content-center.mb-5
       .col-lg-8.BGR01A.p-4(data-aos="fade-right")
-        p.mb-0 Ahora bien, la gestión del contenido, implica definir un plan estratégico de social media que oriente la estrategia y defina los objetivos a alcanzar los cuales, al pasar el tiempo, podrán ser medibles a través de herramientas de analítica.
+        p.mb-0 Ahora bien, la gestión del contenido, implica definir un plan estratégico de #[em social media] que oriente la estrategia y defina los objetivos a alcanzar los cuales, al pasar el tiempo, podrán ser medibles a través de herramientas de analítica.
 
     p.mb-5 Para la construcción de este plan estratégico, se deben tener en cuenta las siguientes recomendaciones:
 
@@ -363,13 +363,13 @@
           div(titulo="Contenido relevante")
             p.mb-0 También, es necesario tener en cuenta que el contenido a publicar debe ser relevante; es importante producir contenido propio, auténtico y relacionado con terceros, compartir contenidos conversacionales, contar historias, realizar promociones e informar.
           div(titulo="Talento calificado")
-            p.mb-0 Para manejar, de manera apropiada y profesional cada herramienta para publicar, se requiere de talento calificado entre los que se encuentran #[em community manager], social media manager, experto SEO, #[em social media analyst] y #[em social commerce manager] que serán requeridos de acuerdo con el tamaño de la empresa, el nivel de la marca, los recursos disponibles y los objetivos que se esperan alcanzar.
+            p.mb-0 Para manejar, de manera apropiada y profesional cada herramienta para publicar, se requiere de talento calificado entre los que se encuentran #[em community manager], #[em social media manager], experto SEO, #[em social media analyst] y #[em social commerce manager] que serán requeridos de acuerdo con el tamaño de la empresa, el nivel de la marca, los recursos disponibles y los objetivos que se esperan alcanzar.
 
-    p Todo plan debe ser evaluado, al conocer los objetivos del plan de social media y cada uno de sus componentes, se podrá definir el momento de la medición, para evaluar si hasta allí se están logrando los objetivos propuestos o si, por el contrario, se requiere con prontitud realizar correcciones, de manera que los objetivos deben estar alineados con los indicadores claves de desempeño que permitirán comprobar la efectividad de la estrategia y, si su estado de avance es el adecuado, o no. En este caso, la medición tiene tres objetivos: conocer la percepción de la marca, la popularidad e influencia de la marca y esto se logra al evaluar el plan. 
+    p Todo plan debe ser evaluado, al conocer los objetivos del plan de #[em social media] y cada uno de sus componentes, se podrá definir el momento de la medición, para evaluar si hasta allí se están logrando los objetivos propuestos o si, por el contrario, se requiere con prontitud realizar correcciones, de manera que los objetivos deben estar alineados con los indicadores claves de desempeño que permitirán comprobar la efectividad de la estrategia y, si su estado de avance es el adecuado, o no. En este caso, la medición tiene tres objetivos: conocer la percepción de la marca, la popularidad e influencia de la marca y esto se logra al evaluar el plan. 
     
     .row.justify-content-center.mb-4
       .col-lg-8.BGR01A.p-4(data-aos="fade-right")
-        p.mb-0 De acuerdo con la Figura 3, en la medición de social media debe estar claramente definido su alcance o hasta adónde llega a evaluar, generar la socialización de los resultados y abrir espacios para la discusión y, finalmente, la presentación y análisis de resultados valorando la efectividad de la estrategia ejecutada.
+        p.mb-0 De acuerdo con la Figura 3, en la medición de #[em social media] debe estar claramente definido su alcance o hasta adónde llega a evaluar, generar la socialización de los resultados y abrir espacios para la discusión y, finalmente, la presentación y análisis de resultados valorando la efectividad de la estrategia ejecutada.
 
     .BGIMG02.px-md-5.px-4.pb-md-5.pb-4
       .row.justify-content-center.align-items-center.mb-5       
@@ -378,11 +378,12 @@
             h5 Figura 3
             span Pilares de la medición de los medios sociales
         .col-lg-8.mb-4(data-aos="zoom-in")
-          figure
+          figure.mb-4
             img(src="@/assets/curso/tema2/img22.svg")
-            figcaption(style= "background-color: #FEF2E4") Nota. Mir, 2016. Recuperado de  <a href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/47296?page=31" target="_blank" style="color: #206897">elibro-net.bdigital.sena.edu.co</a>
+          
+          p.mb-0(style= "background-color: #FEF2E4; padding: 5px") Nota. Mir, 2016. Recuperado de  <a href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/47296?page=31" target="_blank" style="color: #206897">elibro-net.bdigital.sena.edu.co</a>
         .col-lg-8.BGR01A.p-4(data-aos="fade-right")
-          p.mb-0 Para realizar estas mediciones se hace necesario diseñar una dashboard o cuadro de mando, donde se registre con exactitud, los parámetros a medir para visualizar los resultados, según el contexto sin perder de vista que social media requiere una inversión y esta debe generar un beneficio (Dotras, 2015b).
+          p.mb-0 Para realizar estas mediciones se hace necesario diseñar una #[em dashboard] o cuadro de mando, donde se registre con exactitud, los parámetros a medir para visualizar los resultados, según el contexto sin perder de vista que #[em social media] requiere una inversión y esta debe generar un beneficio (Dotras, 2015b).
 
 </template>
 

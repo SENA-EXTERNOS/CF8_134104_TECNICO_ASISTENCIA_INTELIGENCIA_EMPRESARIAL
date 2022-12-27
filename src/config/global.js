@@ -104,28 +104,28 @@ export default {
     {
       tema: '<em>E-commerce</em> y <em>marketing digital</em>',
       referencia:
-        'Miranda, E & Tellez, C. (2016). Social Media Marketing y la reputación de las empresas hoteleras del sur de Bolivia. Revista Digital Investigación & negocios.',
+        'Miranda, E & Tellez, C. (2016). Social Media Marketing y la reputación de las empresas hoteleras del sur de Bolivia. <em>Revista Digital Investigación & negocios</em>.',
       tipo: 'Artículo',
       link: 'http://www.scielo.org.bo/pdf/riyn/v9n13/v9n13_a07.pdf',
     },
     {
       tema: 'Analítica de indicadores de desempeño en social media',
       referencia:
-        'Guevara, E. et al. (2018). Minería de Datos. Revista Científica Mundo de la Investigación y el Conocimiento. 2 (1), 339-349.',
+        'Guevara, E. et al. (2018). Minería de Datos. <em>Revista Científica Mundo de la Investigación y el Conocimiento</em>. 2 (1), 339-349.',
       tipo: 'Artículo',
       link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=6732870',
     },
     {
       tema: '<em>E-commerce</em> y <em>marketing digital</em>',
       referencia:
-        'Newberry, C. Houtsuite. Las 16 métricas de redes sociales más importantes para seguir en 2022.',
+        'Newberry, C. Houtsuite. <em>Las 16 métricas de redes sociales más importantes para seguir en 2022</em>.',
       tipo: 'Blog',
       link: 'https://blog.hootsuite.com/social-media-metrics/',
     },
     {
       tema: 'Análisis de datos',
       referencia:
-        'NetworkDigital 360. (2022). Innovación Digital 360.com. Análisis de datos: Concepto, metodología y técnicas.',
+        'NetworkDigital 360. (2022). <em>Innovación Digital 360.com. Análisis de datos: Concepto, metodología y técnicas</em>.',
       tipo: 'Página Web',
       link:
         'https://www.innovaciondigital360.com/big-data/analisis-de-datos-tecnicas-y-metodologias-para-la-aplicacion-de-analytics/',
@@ -133,7 +133,7 @@ export default {
     {
       tema: '<em>E-commerce</em> y <em>marketing digital</em>',
       referencia:
-        'Wix Blog. (2021). ¿Qué es Google Analytics? Guía para principiantes.',
+        'Wix Blog. (2021). <em>¿Qué es Google Analytics? Guía para principiantes</em>.',
       tipo: 'Guía',
       link:
         'https://es.wix.com/blog/amp/2015/08/como-usar-google-analytics-para-tu-pagina-web-de-wix?utm_source=google&utm_medium=cpc&utm_campaign=12446219914^117820822545&experiment_id=^^501731587679^^_DSA&gclid=Cj0KCQjwqoibBhDUARIsAH2OpWiCrA33bZ_pMDQyntu2XXWM3ffM9wPqfMdVuECzNEBdKA8vS087S9saAuE9EALw_wcB',
@@ -143,7 +143,7 @@ export default {
     {
       termino: '<em>Big data</em>',
       significado:
-        'rango de tareas que conlleva la recolección y consolidación de bases de datos centralizadas a través de los conceptos de ETL y Datawarehouse; la gestión de herramientas para el aprovechamiento de la información, basadas en analítica y minería de datos; junto con un conjunto de herramientas de visualización y reporte, que incluye tecnologías como OLAP (On Line Analitical Processing).',
+        'rango de tareas que conlleva la recolección y consolidación de bases de datos centralizadas a través de los conceptos de ETL y <em>Datawarehouse</em>; la gestión de herramientas para el aprovechamiento de la información, basadas en analítica y minería de datos; junto con un conjunto de herramientas de visualización y reporte, que incluye tecnologías como OLAP (<em>On Line Analitical Processing</em>).',
     },
     {
       termino: '<em>Datawarehouse</em>',
@@ -171,7 +171,7 @@ export default {
     {
       termino: 'OLAP',
       significado:
-        'On Line Analytical Processing traduce el procesamiento analítico en línea, es un método informático que permite a los usuarios extraer y consultar datos de forma ágil y selectiva para su análisis.',
+        '<em>On Line Analytical Processing</em> traduce el procesamiento analítico en línea, es un método informático que permite a los usuarios extraer y consultar datos de forma ágil y selectiva para su análisis.',
     },
     {
       termino: '<em>Smart cities</em>',
@@ -179,12 +179,13 @@ export default {
     },
     {
       termino: '<em>World Wide Web</em>',
-      significado: 'conocido como “www” y significa todo el mundo en la web.',
+      significado:
+        'conocido como “www” y significa todo el mundo en la <em>web</em>.',
     },
     {
       termino: '<em>Webmaster</em>',
       significado:
-        'persona responsable de un servidor de Internet, dueño de un sitio web o responsable de mantenerlo habilitado.',
+        'persona responsable de un servidor de Internet, dueño de un sitio <em>web</em> o responsable de mantenerlo habilitado.',
     },
   ],
   referencias: [

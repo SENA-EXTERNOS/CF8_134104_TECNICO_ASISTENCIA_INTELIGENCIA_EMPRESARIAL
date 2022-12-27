@@ -45,16 +45,12 @@
       .col-lg-8(data-aos="fade-left")
         TabsA.color-acento-botones.mb-5
           .BGR01.p-4(titulo="Clientes")
-            h4 Clientes
             p.mb-0 Se requiere de las unidades vendidas por periodo, así como también, conocer la satisfacción del cliente.
           .BGR01.p-4(titulo="Distribuidores")
-            h4 Distribuidores
-            p.mb-0 Se requiere conocer la estrategia de logística y marketing aplicados. 
+            p.mb-0 Se requiere conocer la estrategia de logística y #[em marketing] aplicados. 
           .BGR01.p-4(titulo="Competidores")
-            h4 Competidores
             p.mb-0 Su participación en el mercado, nuevos productos y su calidad.
           .BGR01.p-4(titulo="Proveedores")
-            h4 Proveedores
             p.mb-0 Se requiere conocer la calidad de sus productos, las condiciones de la operación, el cumplimiento, tanto de requisitos de producto, como de condiciones de entrega, entre otros.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -64,7 +60,7 @@
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4
         img(src='@/assets/curso/temas/img01.svg' style="max-width: 32px;" data-aos="fade-right")
-        h4.col.mb-0(style="margin-left: -16px" data-aos="fade-left") Fundamentos para implementar social media
+        h4.col.mb-0(style="margin-left: -16px" data-aos="fade-left") Fundamentos para implementar #[em social media]
     
     p La #[em web] social implica un medio de comunicación que rompe esquemas, dando origen a un relacionamiento social mucho más cercano a través de este medio, la conversación, publicaciones que generan interés, una interacción con los clientes potenciales y reales, estrechando el vínculo con ellos.
 
@@ -104,7 +100,7 @@
               a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal3 = true")
                 span +
                 .indicador--click(v-if="mostrarIndicador")
-          p.mb-0 Esta red evolucionó para hacer que el hardware procese contenido de forma similar a la humana, en la que todos los datos estarán conectados y se entenderán, tanto contextual como conceptualmente. 
+          p.mb-0 Esta red evolucionó para hacer que el #[em hardware] procese contenido de forma similar a la humana, en la que todos los datos estarán conectados y se entenderán, tanto contextual como conceptualmente. 
       .col-xl-3.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img07.jpg")
         .BGR01B.hg01.p-4
@@ -148,7 +144,7 @@
         ul.lista-ul--color
           li
             i.fab.fa-battle-net(style="color= #F40B74")
-            p.mb-0 Nacimiento de blogs, foros de discusión, salas de chat, correo electrónico, página #[em web], blog y sitios de redes sociales.
+            p.mb-0 Nacimiento de #[em blogs], foros de discusión, salas de chat, correo electrónico, página #[em web], #[em blog] y sitios de redes sociales.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
             | Permite compartir información.
@@ -163,7 +159,7 @@
             | Hace visible Wikipedia y YouTube.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
-            | Nacen los medios sociales o social media con Linkedin, Snapchat, Twitter.
+            p.mb-0 Nacen los medios sociales o #[em social media] con Linkedin, Snapchat, Twitter.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
             | Confianza en las personas o usuarios.
@@ -186,7 +182,7 @@
             | Inteligencia artificial.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
-            | Blockchain.
+            p.mb-0 #[em Blockchain].
           li
             i.fab.fa-battle-net(style="color= #F40B74")
             | Robustece el almacenamiento.
