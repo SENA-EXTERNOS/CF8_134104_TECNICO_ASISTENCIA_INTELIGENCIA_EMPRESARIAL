@@ -191,19 +191,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Devece, C., Guiral, H., & Lapiedra, R. (2016). Introducción a la gestión de sistemas de información en la empresa. D-Universitat Jaume I. Servei de Comunicació i Publicacions.',
+        'Devece, C., Guiral, H., & Lapiedra, R. (2016). <em>Introducción a la gestión de sistemas de información en la empresa</em>. D-Universitat Jaume I. Servei de Comunicació i Publicacions.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/51689?page=13',
     },
     {
       referencia:
-        'Dotras, A. (2015). Social media: Herramientas y estrategias empresariales. Editorial Paracuellos de Jarama/RA-MA. Madrid.',
+        'Dotras, A. (2015). <em>Social media: Herramientas y estrategias empresariales</em>. Editorial Paracuellos de Jarama/RA-MA. Madrid.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/47296',
     },
     {
       referencia:
-        'Mir, P. (2016). P. Brand.com: reputación de marcas y social media. EUNSA, p. 231.',
+        'Mir, P. (2016). P. Brand.com: reputación de marcas y social media. <em>EUNSA</em>, p. 231.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/47296?page=31',
     },
