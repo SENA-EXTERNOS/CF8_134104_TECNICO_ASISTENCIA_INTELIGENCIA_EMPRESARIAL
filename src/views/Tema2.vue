@@ -82,7 +82,8 @@
       .col-lg-8.mb-4(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           h5 Figura 2
-          span Sistema de información de #[em marketing]
+          br
+          span.fst-italic  Sistema de información de #[em marketing]
       .col-lg-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/tema2/img05.svg")
@@ -149,7 +150,8 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Tabla 1
-          span Características de la compra que inciden en el contenido generado por consumidores
+          br
+          span.fst-italic Características de la compra que inciden en el contenido generado por consumidores
 
         .tabla-a.color-secundario(data-aos="zoom-in")
           table
@@ -265,7 +267,8 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Tabla 2
-          span #[em Marketing] tradicional vs #[em marketing] en la red
+          br
+          span.fst-italic #[em Marketing] tradicional vs #[em marketing] en la red
 
         .tabla-a.color-secundario(data-aos="zoom-in")
           table
@@ -376,7 +379,8 @@
         .col-lg-8.mb-4(data-aos="fade-right")
           .titulo-sexto.color-acento-contenido
             h5 Figura 3
-            span Pilares de la medición de los medios sociales
+            br
+            span.fst-italic Pilares de la medición de los medios sociales
         .col-lg-8.mb-4(data-aos="zoom-in")
           figure.mb-4
             img(src="@/assets/curso/tema2/img22.svg")

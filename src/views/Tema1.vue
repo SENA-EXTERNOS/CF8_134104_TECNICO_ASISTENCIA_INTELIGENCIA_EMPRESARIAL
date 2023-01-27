@@ -22,7 +22,8 @@
       .col-lg-8.mb-4(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           h5 Figura 1
-          span Proceso de transformación de datos en información
+          br
+          span.fst-italic  Proceso de transformación de datos en información
       .col-lg-10(data-aos="zoom-in")
         img(src="@/assets/curso/tema1/img02.svg")
     
@@ -31,7 +32,7 @@
         img(src='@/assets/curso/temas/img01.svg' style="max-width: 32px;" data-aos="fade-right")
         h4.col.mb-0(style="margin-left: -16px" data-aos="fade-left") Fuentes de información
 
-    p Como ya se dijo anteriormente, la información se obtiene por diferentes fuentes, algunas internas como encuestas o evaluaciones periódicas de los colaboradores y, otras a través de fuentes externas, según la planificación y coherencia en una estrategia a disposición del cliente, como de los interesados en los productos y servicios que comercializa la organización.
+    p Como ya se dijo anteriormente, la información se obtiene por diferentes fuentes; algunas internas, como encuestas o evaluaciones periódicas de los colaboradores y otras, a través de fuentes externas, según la planificación y coherencia en una estrategia a disposición del cliente, como de los interesados en los productos y servicios que comercializa la organización.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.BGR01A.p-4.mb-4(data-aos="fade-right")
@@ -47,7 +48,7 @@
           .BGR01.p-4(titulo="Clientes")
             p.mb-0 Se requiere de las unidades vendidas por periodo, así como también, conocer la satisfacción del cliente.
           .BGR01.p-4(titulo="Distribuidores")
-            p.mb-0 Se requiere conocer la estrategia de logística y #[em marketing] aplicados. 
+            p.mb-0 Se requiere conocer la estrategia de logística y #[em marketing] aplicados.  
           .BGR01.p-4(titulo="Competidores")
             p.mb-0 Su participación en el mercado, nuevos productos y su calidad.
           .BGR01.p-4(titulo="Proveedores")
@@ -66,7 +67,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.BGR01A.p-4.mb-4(data-aos="fade-right")
-        p.mb-0 En 1990, el Internet no funcionaba como lo se conoce ahora; en su inicio, la red cumplía la función de sustituto comunicativo de los canales de la época, como periódico, radio, televisión, debido a que se accedía a una página #[em web] (#[em website]) y se observaba lo que publicaba, pero no se podía interactuar ni opinar. Para producir contenido en la red, se requería personal capacitado que dominara la programación, pero con la llegada del año 2000, la red vive una serie de transformaciones que aportan interactividad, dinamismo, participación y coloca en el centro, al cliente o usuario.
+        p.mb-0 En 1990, el Internet no funcionaba como se le conoce ahora; en su inicio, la red cumplía la función de sustituto comunicativo de los canales de la época, como periódico, radio, televisión, debido a que se accedía a una página web (website) y se observaba lo que publicaba, pero no se podía interactuar ni opinar. Para producir contenido en la red, se requería personal capacitado que dominara la programación, pero con la llegada del año 2000, la red vive una serie de transformaciones que aportan interactividad, dinamismo, participación y coloca en el centro, al cliente o usuario.
 
     p A continuación, se presenta el desarrollo tecnológico de la #[em web], con el fin de conocer su origen, la ampliación de los servicios ofertados y sus características de operatividad.
 
@@ -110,7 +111,7 @@
               a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal4 = true")
                 span +
                 .indicador--click(v-if="mostrarIndicador")
-          p.mb-0 Es la Internet que evolucionó para acercar el relacionamiento entre personas, y de estas con las máquinas inteligentes, la aparición de bots, de los agentes inteligentes que chatean con humanos, de las casas inteligentes y de las smart cities.
+          p.mb-0 Es la Internet que evolucionó para acercar el relacionamiento entre personas, y de estas con las máquinas inteligentes, la aparición de #[em bots], de los agentes inteligentes que chatean con humanos, de las casas inteligentes y de las #[em smart cities].
 
     ModalA(:abrir-modal.sync="modal1")
       div
@@ -225,7 +226,7 @@
             div(titulo="Análisis de datos")
               p.mb-0 El análisis de datos es un proceso que conlleva una cantidad de pasos, los cuales, según la información y criterio del analista, podrán tener mayor profundidad o duración, entre ellos, la recopilación de requisitos, recolección de datos, procesamiento de datos, limpieza o filtro de datos y análisis, que constituye en el análisis descriptivo o estadístico para analizar la trayectoria de sucesos ocurridos, vinculados a la información analizada, brindando una visión amplia y clara.
             div(titulo="Identificación de la información")
-              p.mb-0 Para identificar la información obtenida, se hace necesario aplicar una metodología, la que se concentra en dos opciones fundamentales: las #[b cuantitativas] que analizan información numérica brindando información organizada que puede orientar o dar indicios y el #[b análisis] que responde a los interrogantes ¿cómo?, ¿qué?, ¿porqué?, que da a conocer causas, o el problema a tratar y en ocasiones las posibles soluciones al mismo. #[b El análisis predictivo] a partir de algoritmos de #[em machine learning], busca potencializar el uso de los datos con el fin de identificar y analizar cluster, patrones, relaciones de causa-efecto y tendencias (NetworkDigital 360, 2022).
+              p.mb-0 Para identificar la información obtenida, se hace necesario aplicar una metodología, la que se concentra en dos opciones fundamentales: las #[b cuantitativas] que analizan información numérica brindando información organizada que puede orientar o dar indicios y el #[b análisis] que responde a los interrogantes ¿cómo?, ¿qué?, ¿por qué?, que da a conocer causas, o el problema a tratar y, en ocasiones, las posibles soluciones al mismo. #[b El análisis predictivo] a partir de algoritmos de #[em machine learning], busca potencializar el uso de los datos con el fin de identificar y analizar cluster, patrones, relaciones de causa-efecto y tendencias (NetworkDigital 360, 2022).
             div(titulo="Ejemplos de técnicas de análisis")
               p.mb-0 Otras técnicas de análisis de datos son R y Python, Microsoft Excel, Tableau, RapidMiner, KNIME, Power BI, Apache Spark, QlikView, Talend y Splunk.
             div(titulo="Criterios de identificación")

@@ -106,7 +106,8 @@
       .col
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Tabla 3
-          span Fusión de objetivos generales con los de #[em social media marketing]
+          br
+          span.fst-italic Fusión de objetivos generales con los de #[em social media marketing]
 
         .tabla-a.color-secundario(data-aos="zoom-in")
           table
@@ -237,11 +238,15 @@
             p.text-small(numero="3" titulo="Hallazgos") Los hallazgos en #[em social media] están orientados al cumplimiento o mejoramiento de la estrategia implementada, relacionados con los objetivos S.M.A.R.T. planteados en el plan de #[em marketing] y de contenidos, así como de la estabilidad de la estrategia planeada y ejecutada mediante campañas en diferentes canales, pero al final todos los hallazgos solo arrojan resultados que obligan a la marca a corregir errores o la mejora continua.
             p.text-small(numero="4" titulo="Interpretación y recomendaciones del análisis de indicadores") La interpretación y recomendación del análisis de indicadores, puede ser tan original como subjetiva, porque los resultados arrojados de la analítica son diferentes para cada marca, porque, aunque existen negocios similares las visiones de sus dirigentes y la proyección comercial que se desea tener no será exactamente la misma. De esta manera, aunque se participe en un mismo canal con productos y servicios iguales, la estrategia implementada siempre será diferente, esta dará cuenta de la proyección de la marca y las necesidades que tiene la organización.
             p.text-small(numero="5" titulo="Seguridad de la información") El avance tecnológico nos ha traído grandes ventajas y facilidades para la vida diaria, pero el estar conectados a red mundial se está expuesto a ser vulnerables por diferentes riesgos que se pueden sufrir si no se cuenta con la suficiente información o se cae en campañas prometedoras de premios o regalos, aparentemente fáciles de ganar. <br><br>Algunos riesgos en redes sociales son virus, #[em phishing] y robo de información, los cuales se pueden prevenir si se toman precauciones en cuanto a visitar sitios #[em web] que tengan un dominio real, a acceder a información acerca de promociones, ofertas de dinero fácil, donde se solicita información personal, entre otros.
-            p.text-small(numero="6" titulo="Propiedad intelectual") Las redes sociales o #[em social media marketing], son una estrategia de comunicación en las organizaciones, basada en difundir contenidos en sus redes sociales, donde muestran la imagen, valores y contribuyen a la construcción de su marca.<br><br>Aunque parece un espacio de comunicación libre, es necesario tener en cuenta que existe la ley de protección intelectual donde se debe tener en cuenta que, siempre hay que contar con autorización del propietario de la creación, para hacer uso de contenido que no nos pertenece; es necesario revisar el aviso legal y, por último, la producción propia estará sometida a las mismas condiciones.
+            p.text-small(numero="6" titulo="Propiedad intelectual") Las redes sociales o #[em social media marketing], son una estrategia de comunicación en las organizaciones, basada en difundir contenidos en sus redes sociales, donde muestran la imagen, valores y contribuyen a la construcción de su marca.
+              br
+              br
+              |Aunque parece un espacio de comunicación libre, es necesario tener en cuenta que existe la ley de protección intelectual donde se debe tener en cuenta que, siempre hay que contar con autorización del propietario de la creación, para hacer uso de contenido que no nos pertenece; es necesario revisar el aviso legal y, por último, la producción propia estará sometida a las mismas condiciones.
+
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.BGR01A.p-4.mb-4(data-aos="fade-right")
-          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 
