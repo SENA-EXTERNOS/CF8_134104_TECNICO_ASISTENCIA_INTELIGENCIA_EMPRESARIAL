@@ -118,7 +118,7 @@ export default {
     {
       tema: '<em>E-commerce</em> y <em>marketing digital</em>',
       referencia:
-        'Newberry, C. Houtsuite. <em>Las 16 métricas de redes sociales más importantes para seguir en 2022</em>.',
+        'Newberry, C. Houtsuite. <em>Las 17 métricas de redes sociales más importantes para seguir en 2022</em>.',
       tipo: 'Blog',
       link: 'https://blog.hootsuite.com/social-media-metrics/',
     },
