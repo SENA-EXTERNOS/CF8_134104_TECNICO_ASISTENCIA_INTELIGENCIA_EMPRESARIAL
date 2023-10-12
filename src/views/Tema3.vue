@@ -31,12 +31,12 @@
         img(src="@/assets/curso/tema3/img02.svg")
       .col-lg-8(data-aos="fade-left")
         LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="KPIS de contenidos") Miden aspectos como la cantidad de “me gustas” en un periodo de tiempo, la cantidad de veces que se comparte el contenido, comentario y clic, o ingresos a los contenidos. 
-          p.text-small(numero="2" titulo="KPIS de alcance") Se refiere a la cobertura o cantidad de personas a quienes han llegado las publicaciones, cantidad de visitas en redes sociales, visitas ganadas, páginas vistas, nuevas visitas, porcentaje de rebote, tiempo promedio de duración de la visita y visitas totales a la página, desde las redes sociales. 
-          p.text-small(numero="3" titulo="KPIS de interacción") El compromiso que se tiene en cada una de las redes sociales. 
-          p.text-small(numero="4" titulo="KPIS de conversión") Porcentaje de visitas en redes sociales, cantidad de ventas producto de #[em social media] y el beneficio obtenido en redes sociales, de acuerdo con la inversión. 
-          p.text-small(numero="5" titulo="KPIS de captación de <em>leads</em>") Los costos específicos de cada respuesta específica de clientes potenciales, a través de e-mail. en respuesta a los anuncios publicados en redes sociales. 
-          p.text-small(numero="6" titulo="KPIS de fidelización") Mide la cantidad de visitas repetidas o concurrentes, y porcentaje de compra de usuarios anteriores. 
+          p(numero="1" titulo="KPIS de contenidos") Miden aspectos como la cantidad de “me gustas” en un periodo de tiempo, la cantidad de veces que se comparte el contenido, comentario y clic, o ingresos a los contenidos. 
+          p(numero="2" titulo="KPIS de alcance") Se refiere a la cobertura o cantidad de personas a quienes han llegado las publicaciones, cantidad de visitas en redes sociales, visitas ganadas, páginas vistas, nuevas visitas, porcentaje de rebote, tiempo promedio de duración de la visita y visitas totales a la página, desde las redes sociales. 
+          p(numero="3" titulo="KPIS de interacción") El compromiso que se tiene en cada una de las redes sociales. 
+          p(numero="4" titulo="KPIS de conversión") Porcentaje de visitas en redes sociales, cantidad de ventas producto de #[em social media] y el beneficio obtenido en redes sociales, de acuerdo con la inversión. 
+          p(numero="5" titulo="KPIS de captación de <em>leads</em>") Los costos específicos de cada respuesta específica de clientes potenciales, a través de #[i e-mail]. en respuesta a los anuncios publicados en redes sociales. 
+          p(numero="6" titulo="KPIS de fidelización") Mide la cantidad de visitas repetidas o concurrentes, y porcentaje de compra de usuarios anteriores. 
 
     p Se entiende que los KPIS de contenido, alcance, interacción, conversión, captación de #[em leads] y de fidelización, son grandes grupos que comprenden en su interior, una diversidad de indicadores KPIS con una función en específico, que permitirá brindar información a la organización.
     p.mb-5 De acuerdo a esto, se presentan algunos de los KPIS más representativos:
@@ -47,13 +47,13 @@
       .col-lg-8(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="BGR01C")
           div(titulo="CTR")
-            p.mb-0 El CTR (#[em Click Through Rate]), cuantifica la tasa de clics en enlaces publicados en redes sociales y el porcentaje de visitas logradas desde redes sociales, en comparación con las visitas totales.
+            p.mb-0 El CTR (#[em Click Through Rate]), cuantifica la tasa de #[i clics] en enlaces publicados en redes sociales y el porcentaje de visitas logradas desde redes sociales, en comparación con las visitas totales.
           div(titulo="CPA")
             p.mb-0 El CPA (#[em Cost Per Acquisition]), costo de la campaña en redes sociales, en comparación con los compradores desde redes sociales.
           div(titulo="ROI")
             p.mb-0 El ROI (#[em Return of Investment]) es el beneficio logrado en redes sociales en comparación con el costo total invertido (publicidad ads, costo #[em community manager], etc).
           div(titulo="CPL")
-            p.mb-0 El CPL (#[em Cost per Lead]) es el costo por cada e-mail conseguido, a través de anuncios por clientes potenciales.
+            p.mb-0 El CPL (#[em Cost per Lead]) es el costo por cada #[i e-mail] conseguido, a través de anuncios por clientes potenciales.
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4
@@ -155,16 +155,16 @@
         img(src="@/assets/curso/tema3/img07.svg")
       .col-lg-8(data-aos="fade-left")
         LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="Diagnóstico") Realiza un diagnóstico de la situación en línea.
-          p.text-small(numero="2" titulo="Segmentación") Identificación y segmentación de la población objetivo.
-          p.text-small(numero="3" titulo="Objetivos") Definir con claridad qué se espera lograr, y establecer los objetivos.
-          p.text-small(numero="4" titulo="Canales") Elección de los canales, donde se proyecta tener presencia.
-          p.text-small(numero="5" titulo="Estrategia de contenidos") Estrategia de contenidos, hacerlos amigables, dinámicos, interactivos y conversacionales.
-          p.text-small(numero="6" titulo="Cronograma") Establecer un cronograma o calendario, del desarrollo de la estrategia.
-          p.text-small(numero="7" titulo="Vinculación") Vinculación del #[em community manager] o demás profesionales requeridos.
-          p.text-small(numero="8" titulo="Indicadores") Definir el sistema de medición, métricas, herramientas, kpis y el monitoreo.
-          p.text-small(numero="9" titulo="Protocolo de comunicación") Diseñar protocolo de comunicación y crisis 2.0.
-          p.text-small(numero="10" titulo="Presupuesto") Elaborar el presupuesto y definir con claridad la inversión a realizar.
+          p(numero="1" titulo="Diagnóstico") Realiza un diagnóstico de la situación en línea.
+          p(numero="2" titulo="Segmentación") Identificación y segmentación de la población objetivo.
+          p(numero="3" titulo="Objetivos") Definir con claridad qué se espera lograr, y establecer los objetivos.
+          p(numero="4" titulo="Canales") Elección de los canales, donde se proyecta tener presencia.
+          p(numero="5" titulo="Estrategia de contenidos") Estrategia de contenidos, hacerlos amigables, dinámicos, interactivos y conversacionales.
+          p(numero="6" titulo="Cronograma") Establecer un cronograma o calendario, del desarrollo de la estrategia.
+          p(numero="7" titulo="Vinculación") Vinculación del #[em community manager] o demás profesionales requeridos.
+          p(numero="8" titulo="Indicadores") Definir el sistema de medición, métricas, herramientas, kpis y el monitoreo.
+          p(numero="9" titulo="Protocolo de comunicación") Diseñar protocolo de comunicación y crisis 2.0.
+          p(numero="10" titulo="Presupuesto") Elaborar el presupuesto y definir con claridad la inversión a realizar.
 
     p Por otra parte, dentro de las campañas de #[em social media], debe existir una programación de contenidos que brindará información valiosa y, así mismo, dentro de este, incluir las diferentes estrategias de contenidos con el fin de cumplir con los objetivos planteados.
     p.mb-5 A continuación, se explican los puntos importantes a tener en cuenta, a la hora de crear la programación de contenidos:
@@ -177,7 +177,7 @@
           div(titulo="Posicionamiento de marca")
             p.mb-0 El contenido en las redes, es parte esencial de la marca y busca posicionar la marca con una identidad propia, lo que se consolida como la estrategia de contenidos; debe ser cuidadosamente concebida de manera que defina la personalidad de la marca, al vincular los valores a transmitir, el tono a utilizar y el diseño creativo que la apoyará.
           div(titulo="Público objetivo")
-            p.mb-0 Al identificar el público objetivo, se pueden definir las necesidades, temáticas específicas, la tipología de contenido, de acuerdo con cada uno de los canales en los que se tendrá presencia, lo cual permitirá identificar las diferentes audiencias lo que implica seleccionar diferente contenido a fin de satisfacer el tipo de audiencia, de acuerdo con la plataforma social; tal es el caso del contenido multimedia, tiene más concordancia con Instagram o Facebook, y el contenido es más indicado para #[em blogs] o Linkedln. 
+            p.mb-0 Al identificar el público objetivo, se pueden definir las necesidades, temáticas específicas, la tipología de contenido, de acuerdo con cada uno de los canales en los que se tendrá presencia, lo cual permitirá identificar las diferentes audiencias lo que implica seleccionar diferente contenido a fin de satisfacer el tipo de audiencia, de acuerdo con la plataforma social; tal es el caso del contenido multimedia, tiene más concordancia con #[i Instagram] o #[i Facebook], y el contenido es más indicado para #[em blogs] o #[i Linkedln]. 
           div(titulo="Calendario editorial")
             p.mb-0 Para cumplir con este propósito, se requiere de un calendario editorial en el que debe incluirse el día y la hora de la publicación del contenido, la temática o contenido a publicar, el objetivo o fin a lograr, tipo de contenido a utilizar, si es video, texto, enlace, entre otros, la red social donde se va a publicar, otras particularidades como especificaciones, etiquetas y #[em hashtags], e indicadores para evaluar los resultados obtenidos. 
 
@@ -185,7 +185,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.BGR01A.p-4.mb-4(data-aos="fade-right")
-        p.mb-0 Por esta razón, en Internet, se encuentran disponibles, variedad de herramientas de automatización; sin embargo, aquí se mencionan algunas: Buffer, Hootsuite, TweetDeck, Social Flow, SpreadFast, IFTTT, Shedugram, Socialoomph, CrowdBooster y Viralwoot.
+        p.mb-0 Por esta razón, en Internet, se encuentran disponibles, variedad de herramientas de automatización; sin embargo, aquí se mencionan algunas: #[i Buffer, Hootsuite, TweetDeck, Social Flow, SpreadFast], IFTTT, #[i Shedugram, Socialoomph, CrowdBooster] y #[i Viralwoot].
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4
@@ -233,12 +233,12 @@
           img(src="@/assets/curso/tema3/img10.svg")
         .col-lg-8(data-aos="fade-left")
           LineaTiempoD.color-acento-botones
-            p.text-small(numero="1" titulo="Indicadores de rendimiento") Los indicadores de rendimiento, se establecen con el fin de calcular el beneficio o retribución que ha tenido la estrategia de #[em social media] para la marca. Además, de los indicadores antes mencionados, la estrategia de #[em social media] puede establecer sus propios indicadores de medición, de acuerdo con sus necesidades y objetivos.
-            p.text-small(numero="2" titulo="Generalidades de minería de datos") Se encarga de extraer información de redes sociales, de acuerdo con las campañas que realiza la marca correspondiente a datos sociales, lo que requiere recopilar, procesar y analizar datos obtenidos de plataformas de redes sociales como Facebook, Instagram, Twitter, TikTok, LinkedIn, YouTube, entre otras, para identificar patrones y tendencias preponderantes, como datos demográficos: edad, sexo, nivel de escolaridad, ocupación, ubicación geográfica, también intereses particulares tomados de los clic al consultar una página o al dar clic en “me gusta” en una publicación en especial, lo que permite generar conclusiones y proporcionar nuevos #[em insights]. 
-            p.text-small(numero="3" titulo="Hallazgos") Los hallazgos en #[em social media] están orientados al cumplimiento o mejoramiento de la estrategia implementada, relacionados con los objetivos S.M.A.R.T. planteados en el plan de #[em marketing] y de contenidos, así como de la estabilidad de la estrategia planeada y ejecutada mediante campañas en diferentes canales, pero al final todos los hallazgos solo arrojan resultados que obligan a la marca a corregir errores o la mejora continua.
-            p.text-small(numero="4" titulo="Interpretación y recomendaciones del análisis de indicadores") La interpretación y recomendación del análisis de indicadores, puede ser tan original como subjetiva, porque los resultados arrojados de la analítica son diferentes para cada marca, porque, aunque existen negocios similares las visiones de sus dirigentes y la proyección comercial que se desea tener no será exactamente la misma. De esta manera, aunque se participe en un mismo canal con productos y servicios iguales, la estrategia implementada siempre será diferente, esta dará cuenta de la proyección de la marca y las necesidades que tiene la organización.
-            p.text-small(numero="5" titulo="Seguridad de la información") El avance tecnológico nos ha traído grandes ventajas y facilidades para la vida diaria, pero el estar conectados a red mundial se está expuesto a ser vulnerables por diferentes riesgos que se pueden sufrir si no se cuenta con la suficiente información o se cae en campañas prometedoras de premios o regalos, aparentemente fáciles de ganar. <br><br>Algunos riesgos en redes sociales son virus, #[em phishing] y robo de información, los cuales se pueden prevenir si se toman precauciones en cuanto a visitar sitios #[em web] que tengan un dominio real, a acceder a información acerca de promociones, ofertas de dinero fácil, donde se solicita información personal, entre otros.
-            p.text-small(numero="6" titulo="Propiedad intelectual") Las redes sociales o #[em social media marketing], son una estrategia de comunicación en las organizaciones, basada en difundir contenidos en sus redes sociales, donde muestran la imagen, valores y contribuyen a la construcción de su marca.
+            p(numero="1" titulo="Indicadores de rendimiento") Los indicadores de rendimiento, se establecen con el fin de calcular el beneficio o retribución que ha tenido la estrategia de #[em social media] para la marca. Además, de los indicadores antes mencionados, la estrategia de #[em social media] puede establecer sus propios indicadores de medición, de acuerdo con sus necesidades y objetivos.
+            p(numero="2" titulo="Generalidades de minería de datos") Se encarga de extraer información de redes sociales, de acuerdo con las campañas que realiza la marca correspondiente a datos sociales, lo que requiere recopilar, procesar y analizar datos obtenidos de plataformas de redes sociales como #[i Facebook, Instagram, Twitter, TikTok, LinkedIn, YouTube], entre otras, para identificar patrones y tendencias preponderantes, como datos demográficos: edad, sexo, nivel de escolaridad, ocupación, ubicación geográfica, también intereses particulares tomados de los clic al consultar una página o al dar #[i clic] en “me gusta” en una publicación en especial, lo que permite generar conclusiones y proporcionar nuevos #[em insights]. 
+            p(numero="3" titulo="Hallazgos") Los hallazgos en #[em social media] están orientados al cumplimiento o mejoramiento de la estrategia implementada, relacionados con los objetivos S.M.A.R.T. planteados en el plan de #[em marketing] y de contenidos, así como de la estabilidad de la estrategia planeada y ejecutada mediante campañas en diferentes canales, pero al final todos los hallazgos solo arrojan resultados que obligan a la marca a corregir errores o la mejora continua.
+            p(numero="4" titulo="Interpretación y recomendaciones del análisis de indicadores") La interpretación y recomendación del análisis de indicadores, puede ser tan original como subjetiva, porque los resultados arrojados de la analítica son diferentes para cada marca, porque, aunque existen negocios similares las visiones de sus dirigentes y la proyección comercial que se desea tener no será exactamente la misma. De esta manera, aunque se participe en un mismo canal con productos y servicios iguales, la estrategia implementada siempre será diferente, esta dará cuenta de la proyección de la marca y las necesidades que tiene la organización.
+            p(numero="5" titulo="Seguridad de la información") El avance tecnológico nos ha traído grandes ventajas y facilidades para la vida diaria, pero el estar conectados a red mundial se está expuesto a ser vulnerables por diferentes riesgos que se pueden sufrir si no se cuenta con la suficiente información o se cae en campañas prometedoras de premios o regalos, aparentemente fáciles de ganar. <br><br>Algunos riesgos en redes sociales son virus, #[em phishing] y robo de información, los cuales se pueden prevenir si se toman precauciones en cuanto a visitar sitios #[em web] que tengan un dominio real, a acceder a información acerca de promociones, ofertas de dinero fácil, donde se solicita información personal, entre otros.
+            p(numero="6" titulo="Propiedad intelectual") Las redes sociales o #[em social media marketing], son una estrategia de comunicación en las organizaciones, basada en difundir contenidos en sus redes sociales, donde muestran la imagen, valores y contribuyen a la construcción de su marca.
               br
               br
               |Aunque parece un espacio de comunicación libre, es necesario tener en cuenta que existe la ley de protección intelectual donde se debe tener en cuenta que, siempre hay que contar con autorización del propietario de la creación, para hacer uso de contenido que no nos pertenece; es necesario revisar el aviso legal y, por último, la producción propia estará sometida a las mismas condiciones.

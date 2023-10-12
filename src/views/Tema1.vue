@@ -40,18 +40,18 @@
 
     p Es así como podemos identificar los siguientes grupos de interés y los distintos tipos de información necesarios, con respecto a cada uno de ellos.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.my-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema1/img03.svg")
       .col-lg-8(data-aos="fade-left")
-        TabsA.color-acento-botones.mb-5
-          .BGR01.p-4(titulo="Clientes")
+        TabsC.color-acento-botones.mb-5
+          .BGR01.p-4.mb-4(titulo="Clientes")
             p.mb-0 Se requiere de las unidades vendidas por periodo, así como también, conocer la satisfacción del cliente.
-          .BGR01.p-4(titulo="Distribuidores")
+          .BGR01.p-4.mb-4(titulo="Distribuidores")
             p.mb-0 Se requiere conocer la estrategia de logística y #[em marketing] aplicados.  
-          .BGR01.p-4(titulo="Competidores")
+          .BGR01.p-4.mb-4(titulo="Competidores")
             p.mb-0 Su participación en el mercado, nuevos productos y su calidad.
-          .BGR01.p-4(titulo="Proveedores")
+          .BGR01.p-4.mb-4(titulo="Proveedores")
             p.mb-0 Se requiere conocer la calidad de sus productos, las condiciones de la operación, el cumplimiento, tanto de requisitos de producto, como de condiciones de entrega, entre otros.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -73,45 +73,49 @@
 
     .row.justify-content-center.mb-5
       .col-xl-3.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-right")
-        img(src="@/assets/curso/tema1/img04.jpg")
-        .BGR01B.hg01.p-4
-          .mb-4.d-flex
-            .d-flex.flex-wrap.align-items-center.pe-4
-              h4.col.ms-5.mb-0 #[em WEB] 1.0
-              a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal1 = true")
-                span +
-                .indicador--click(v-if="mostrarIndicador")
-          p.mb-0 Corresponde al nacimiento de #[em world wide web] o www, nacida en 1990.
+        .BGR01B.hg01.h-100
+          img(src="@/assets/curso/tema1/img04.jpg")
+          .p-4
+            .mb-4.d-flex
+              .d-flex.flex-wrap.align-items-center.pe-4
+                h4.col.ms-5.mb-0 #[em WEB] 1.0
+                a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal1 = true")
+                  span +
+                  .indicador--click(v-if="mostrarIndicador")
+            p.mb-0 Corresponde al nacimiento de #[em world wide web] o "#[i www], nacida en 1990.
       .col-xl-3.col-md-6.col-10.mb-xl-0.mb-4(data-aos="flip-up")
-        img(src="@/assets/curso/tema1/img05.jpg")
-        .BGR01B.hg01.p-4
-          .mb-4.d-flex
-            .d-flex.flex-wrap.align-items-center.pe-4
-              h4.col.ms-5.mb-0 #[em WEB] 2.0
-              a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal2 = true")
-                span +
-                .indicador--click(v-if="mostrarIndicador")
-          p.mb-0 Corresponde al avance de “www” o Internet, que soportada en nuevas herramientas, promueve la organización y flujo de la información, según el comportamiento de las personas o usuarios. 
+        .BGR01B.hg01.h-100
+          img(src="@/assets/curso/tema1/img05.jpg")
+          .p-4
+            .mb-4.d-flex
+              .d-flex.flex-wrap.align-items-center.pe-4
+                h4.col.ms-5.mb-0 #[em WEB] 2.0
+                a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal2 = true")
+                  span +
+                  .indicador--click(v-if="mostrarIndicador")
+            p.mb-0 Corresponde al avance de “#[i www]” o Internet, que soportada en nuevas herramientas, promueve la organización y flujo de la información, según el comportamiento de las personas o usuarios. 
       .col-xl-3.col-md-6.col-10.mb-xl-0.mb-4(data-aos="flip-up")
-        img(src="@/assets/curso/tema1/img06.jpg")
-        .BGR01B.hg01.p-4
-          .mb-4.d-flex
-            .d-flex.flex-wrap.align-items-center.pe-4
-              h4.col.ms-5.mb-0 #[em WEB] 3.0
-              a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal3 = true")
-                span +
-                .indicador--click(v-if="mostrarIndicador")
-          p.mb-0 Esta red evolucionó para hacer que el #[em hardware] procese contenido de forma similar a la humana, en la que todos los datos estarán conectados y se entenderán, tanto contextual como conceptualmente. 
+        .BGR01B.hg01.h-100
+          img(src="@/assets/curso/tema1/img06.jpg")
+          .p-4
+            .mb-4.d-flex
+              .d-flex.flex-wrap.align-items-center.pe-4
+                h4.col.ms-5.mb-0 #[em WEB] 3.0
+                a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal3 = true")
+                  span +
+                  .indicador--click(v-if="mostrarIndicador")
+            p.mb-0 Esta red evolucionó para hacer que el #[em hardware] procese contenido de forma similar a la humana, en la que todos los datos estarán conectados y se entenderán, tanto contextual como conceptualmente. 
       .col-xl-3.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-left")
-        img(src="@/assets/curso/tema1/img07.jpg")
-        .BGR01B.hg01.p-4
-          .mb-4.d-flex
-            .d-flex.flex-wrap.align-items-center.pe-4
-              h4.col.ms-5.mb-0 #[em WEB] 4.0
-              a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal4 = true")
-                span +
-                .indicador--click(v-if="mostrarIndicador")
-          p.mb-0 Es la Internet que evolucionó para acercar el relacionamiento entre personas, y de estas con las máquinas inteligentes, la aparición de #[em bots], de los agentes inteligentes que chatean con humanos, de las casas inteligentes y de las #[em smart cities].
+        .BGR01B.hg01.h-100
+          img(src="@/assets/curso/tema1/img07.jpg")
+          .p-4
+            .mb-4.d-flex
+              .d-flex.flex-wrap.align-items-center.pe-4
+                h4.col.ms-5.mb-0 #[em WEB] 4.0
+                a.boton.BGR02A.indicador__container.text-white(style="padding: 2px 10px; margin-left: 12px" @click="modal4 = true")
+                  span +
+                  .indicador--click(v-if="mostrarIndicador")
+            p.mb-0 Es la Internet que evolucionó para acercar el relacionamiento entre personas, y de estas con las máquinas inteligentes, la aparición de #[em bots], de los agentes inteligentes que chatean con humanos, de las casas inteligentes y de las #[em smart cities].
 
     ModalA(:abrir-modal.sync="modal1")
       div
@@ -157,10 +161,10 @@
             | Es dinámica.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
-            | Hace visible Wikipedia y YouTube.
+            p.mb-0 Hace visible #[i Wikipedia] y #[i YouTube].
           li
             i.fab.fa-battle-net(style="color= #F40B74")
-            p.mb-0 Nacen los medios sociales o #[em social media] con Linkedin, Snapchat, Twitter.
+            p.mb-0 Nacen los medios sociales o #[em social media] con #[i Linkedin, Snapchat, Twitter].
           li
             i.fab.fa-battle-net(style="color= #F40B74")
             | Confianza en las personas o usuarios.
@@ -212,7 +216,7 @@
             | Aparición de grandes vehículos autónomos.
           li
             i.fab.fa-battle-net(style="color= #F40B74")
-            | Asistentes virtuales como Siri, Cortana y Google Now.
+            p.mb-0 Asistentes virtuales como #[i Siri, Cortana] y #[i Google Now].
 
     p En la actualidad, toda la información producida está sometida a diferentes análisis; los más utilizados son matemáticos, estadísticos y visuales; gracias al avance de la tecnología y las herramientas diseñadas, se hace más frecuente y óptimo realizarlo con el fin de fundamentar la toma de decisiones.
     p.mb-5 A continuación, se presentan algunas técnicas de identificación.
@@ -226,9 +230,9 @@
             div(titulo="Análisis de datos")
               p.mb-0 El análisis de datos es un proceso que conlleva una cantidad de pasos, los cuales, según la información y criterio del analista, podrán tener mayor profundidad o duración, entre ellos, la recopilación de requisitos, recolección de datos, procesamiento de datos, limpieza o filtro de datos y análisis, que constituye en el análisis descriptivo o estadístico para analizar la trayectoria de sucesos ocurridos, vinculados a la información analizada, brindando una visión amplia y clara.
             div(titulo="Identificación de la información")
-              p.mb-0 Para identificar la información obtenida, se hace necesario aplicar una metodología, la que se concentra en dos opciones fundamentales: las #[b cuantitativas] que analizan información numérica brindando información organizada que puede orientar o dar indicios y el #[b análisis] que responde a los interrogantes ¿cómo?, ¿qué?, ¿por qué?, que da a conocer causas, o el problema a tratar y, en ocasiones, las posibles soluciones al mismo. #[b El análisis predictivo] a partir de algoritmos de #[em machine learning], busca potencializar el uso de los datos con el fin de identificar y analizar cluster, patrones, relaciones de causa-efecto y tendencias (NetworkDigital 360, 2022).
+              p.mb-0 Para identificar la información obtenida, se hace necesario aplicar una metodología, la que se concentra en dos opciones fundamentales: las #[b cuantitativas] que analizan información numérica brindando información organizada que puede orientar o dar indicios y el #[b análisis] que responde a los interrogantes ¿cómo?, ¿qué?, ¿por qué?, que da a conocer causas, o el problema a tratar y, en ocasiones, las posibles soluciones al mismo. #[b El análisis predictivo] a partir de algoritmos de #[em machine learning], busca potencializar el uso de los datos con el fin de identificar y analizar #[i cluster], patrones, relaciones de causa-efecto y tendencias (NetworkDigital 360, 2022).
             div(titulo="Ejemplos de técnicas de análisis")
-              p.mb-0 Otras técnicas de análisis de datos son R y Python, Microsoft Excel, Tableau, RapidMiner, KNIME, Power BI, Apache Spark, QlikView, Talend y Splunk.
+              p.mb-0 Otras técnicas de análisis de datos son R y #[i Python, Microsoft Excel, Tableau, RapidMiner, KNIME, Power BI, Apache Spark, QlikView, Talend] y #[i Splunk].
             div(titulo="Criterios de identificación")
               p.mb-0 Gracias al desarrollo tecnológico de la #[em web], el flujo de información disponible es lo suficiente como para sentirse en un mar de información; por esta razón, es de vital importancia definir criterios específicos para captar la información que requiere la organización, y esto se logra a través de híbrido BI más #[em Big data]. El primero, orientado al acercamiento de las personas, y el segundo orientado al análisis de bases de datos.
 

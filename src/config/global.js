@@ -104,12 +104,12 @@ export default {
     {
       tema: '<em>E-commerce</em> y <em>marketing digital</em>',
       referencia:
-        'Miranda, E & Tellez, C. (2016). Social Media Marketing y la reputación de las empresas hoteleras del sur de Bolivia. <em>Revista Digital Investigación & negocios</em>.',
+        'Miranda, E & Tellez, C. (2016). <i>Social Media Marketing</i> y la reputación de las empresas hoteleras del sur de Bolivia. <em>Revista Digital Investigación & negocios</em>.',
       tipo: 'Artículo',
       link: 'http://www.scielo.org.bo/pdf/riyn/v9n13/v9n13_a07.pdf',
     },
     {
-      tema: 'Analítica de indicadores de desempeño en social media',
+      tema: 'Analítica de indicadores de desempeño en <i>social media</i>',
       referencia:
         'Guevara, E. et al. (2018). Minería de Datos. <em>Revista Científica Mundo de la Investigación y el Conocimiento</em>. 2 (1), 339-349.',
       tipo: 'Artículo',
@@ -180,7 +180,7 @@ export default {
     {
       termino: '<em>World Wide Web</em>',
       significado:
-        'conocido como “www” y significa todo el mundo en la <em>web</em>.',
+        'conocido como “<i>www</i>” y significa todo el mundo en la <em>web</em>.',
     },
     {
       termino: '<em>Webmaster</em>',

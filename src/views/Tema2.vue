@@ -35,34 +35,34 @@
     p A continuación, se presentan tres categorías del #[em e-commerce].
 
     .row.justify-content-center.mb-5
-      .col-xl-4.col-md-8.col-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-lg-5.col-10.my-3(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema2/img02.jpg' alt='AvatarTop')
           .tarjetas-up_card.BG01.p-4
-            .title.d-flex.align-items-center.mb-xl-4.mb-5
+            .title.d-flex.align-items-center.mb-xl-4.mb-5.pt-3
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h4.mb-0 #[em Business to business]
             p.mb-0 Es el comercio electrónico entre empresas. Ha generado mayor cercanía entre las organizaciones, pero debido a la cooperación entre ellas, se han creado nuevos vínculos entre competidores, clientes y proveedores, desarrollando su capacidad competitiva.
-      .col-xl-4.col-md-8.col-10.mb-xl-0.mb-4(data-aos="flip-up")
+      .col-lg-5.col-10.my-3(data-aos="flip-up")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema2/img03.jpg' alt='AvatarTop')
           .tarjetas-up_card.BG01.p-4
-            .title.d-flex.align-items-center.mb-xl-4.mb-5
+            .title.d-flex.align-items-center.mb-xl-4.mb-5.pt-3
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h4.mb-0 #[em Business to consumer]
             p.mb-0 Es el comercio electrónico entre empresa y consumidor. Apareció desde 1990, facilitando la comunicación y las transacciones entre empresas, obligando a generar estructuras más ágiles y flexibles, que se esfuerzan por brindar mayor calidad en sus productos. 
-      .col-xl-4.col-md-8.col-10(data-aos="fade-left")
+      .col-lg-5.col-10.my-3(data-aos="fade-left")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema2/img04.jpg' alt='AvatarTop')
           .tarjetas-up_card.BG01.p-4
-            .title.d-flex.align-items-center.mb-xl-4.mb-5
+            .title.d-flex.align-items-center.mb-xl-4.mb-5.pt-3
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
@@ -144,7 +144,7 @@
               .h4 Pilar 8
               p.mb-0 Valerse de los contactos formales e informales de los directivos.
             
-    p.mb-5 Siendo llamado el boca a boca o más conocido como voz a voz, se creería que perdería dominio por la digitalización de las empresas, pero contrario a ello, existe con mayor solidez y agilidad entre los consumidores y personas interesadas; soportado en Internet comunicando de manera continua y prolongando su presencia y estando accesible para todos. En la Tabla 1, se presentan algunos de los factores que se deben analizar en el eWOM.
+    p.mb-5 Siendo llamado el boca a boca o más conocido como voz a voz, se creería que perdería dominio por la digitalización de las empresas, pero contrario a ello, existe con mayor solidez y agilidad entre los consumidores y personas interesadas; soportado en Internet comunicando de manera continua y prolongando su presencia y estando accesible para todos. En la Tabla 1, se presentan algunos de los factores que se deben analizar en el #[b eWOM].
 
     .row.justify-content-center.mb-4
       .col-lg-10
@@ -228,7 +228,7 @@
           div(titulo="Fuente u origen de la información")
             p.mb-0 Además, debe contener fuente u origen de la información, descripción o detalle, formato, canal como #[em blog], redes sociales, fecha de publicación, responsable, estadísticas acerca de ventas, oportunidades de negocio, ideas, tráfico #[em web], alcance, entre otros.
 
-    p En este punto, es importante señalar que el canal es el SEO, siendo necesario que el sitio #[em web] esté optimizado correctamente, con la finalidad que los motores de búsqueda como Google, ubiquen la información de la marca en los primeros lugares. A partir de una correcta optimización, los motores de búsqueda arrojan resultados orgánicos o que se encuentre un sitio, desempeñando de esta manera un papel crucial para comercializar, a través de diferentes canales, orientada a buscadores como estrategia SEM.
+    p En este punto, es importante señalar que el canal es el SEO, siendo necesario que el sitio #[em web] esté optimizado correctamente, con la finalidad que los motores de búsqueda como #[i Google], ubiquen la información de la marca en los primeros lugares. A partir de una correcta optimización, los motores de búsqueda arrojan resultados orgánicos o que se encuentre un sitio, desempeñando de esta manera un papel crucial para comercializar, a través de diferentes canales, orientada a buscadores como estrategia SEM.
     p.mb-5 En la definición de la estrategia publicitaria, se identifican las 4 P, las cuales son:
 
     .row.justify-content-center.mb-5
@@ -286,7 +286,7 @@
               tr
                 td(style="background-color: #F6F6F6;").text-center Presentación de producto.
                 td(style="background-color: #F6F6F6;").text-center Anuncios en medios de comunicación.
-                td(style="background-color: #F6F6F6;").text-center Banners publicitarios en Internet.
+                td(style="background-color: #F6F6F6;").text-center <i>Banners</i> publicitarios en Internet.
               tr
                 td(style="background-color: #FFF;").text-center Relaciones públicas.
                 td(style="background-color: #FFF;").text-center Notas de prensa.
@@ -313,40 +313,40 @@
             ul.lista-ul--color
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | Buscador de Google (gratuita).
+                p.mb-0 Buscador de #[i Google] (gratuita).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | Social Report (de pago).
+                p.mb-0 #[i Social Report] (de pago).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | Engagor (gratuita).
+                p.mb-0 #[i Engagor] (gratuita).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | SocialBro (gratuita y de pago).
+                p.mb-0 #[i SocialBro] (gratuita y de pago).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | Radian6 (de pago).
+                p.mb-0 #[i Radian6] (de pago).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | Klout (gratuita).
+                p.mb-0 #[i Klout] (gratuita).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | HootSuite (gratuita y de pago).
+                p.mb-0 #[i HootSuite] (gratuita y de pago).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | Google Alerts (gratuita).
+                p.mb-0 #[i Google Alerts] (gratuita).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | Google Trends (gratuita).
+                p.mb-0 #[i Google Trends] (gratuita).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | Mention (gratuita y de pago).
+                p.mb-0 #[i Mention] (gratuita y de pago).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | SocialMention (gratuita).
+                p.mb-0 #[i SocialMention] (gratuita).
               li(style="margin-bottom: 2px")
                 i.fab.fa-battle-net(style="color= #F40B74")
-                | Addictomatic (gratuita).
+                p.mb-0 #[i Addictomatic] (gratuita).
     
     p Como se puede observar, hay diversidad de herramientas dispuestas para la gestión de #[em social media], de acuerdo con las necesidades de las organizaciones.
 
@@ -372,7 +372,7 @@
     
     .row.justify-content-center.mb-4
       .col-lg-8.BGR01A.p-4(data-aos="fade-right")
-        p.mb-0 De acuerdo con la Figura 3, en la medición de #[em social media] debe estar claramente definido su alcance o hasta adónde llega a evaluar, generar la socialización de los resultados y abrir espacios para la discusión y, finalmente, la presentación y análisis de resultados valorando la efectividad de la estrategia ejecutada.
+        p.mb-0 De acuerdo con la Figura 3, en la medición de #[em social media] debe estar claramente definido su alcance o hasta dónde llega a evaluar, generar la socialización de los resultados y abrir espacios para la discusión y, finalmente, la presentación y análisis de resultados valorando la efectividad de la estrategia ejecutada.
 
     .BGIMG02.px-md-5.px-4.pb-md-5.pb-4
       .row.justify-content-center.align-items-center.mb-5       
